@@ -1,0 +1,22 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "istream": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "__locale": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "__bit_reference": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "unordered_map": "cpp",
+        "sstream": "cpp",
+        "filesystem": "cpp",
+        "stdexcept": "cpp"
+    }
+}
