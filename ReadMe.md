@@ -19,9 +19,9 @@ using the following rules: </br>
 * Each line should contain a node description
 * A node label should be any string with alphanumeric characters
 * A leaf node will have:
-    * Sub Using n=v An integer v indicating a score (final or possibly from a heuristic evaluator) associated with a node label n
+    * Using n=v An integer v indicating a score (final or possibly from a heuristic evaluator) associated with a node label n
    An internal node will use a colon and comma separated [] indicating parent child labels
-    * Sub Using n:[n1,n2,...] two or more node labels indicating child nodes
+    * Using n:[n1,n2,...] two or more node labels indicating child nodes
 * Valid input is a tree or DAG (no cycles) with a value at every leaf node and a single root (node with no incoming edges).
 <a/>
 Output should have the format:
