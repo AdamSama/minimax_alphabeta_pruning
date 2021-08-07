@@ -2,8 +2,7 @@
 ## The program solves a minmax file and supports alpha-beta pruning
 The input file is graph of minimax tree. </br>
 A tree like this:
-![alt text](https://github.com/AdamSama/minimax_alphabeta_pruning/blob/master/ex1.png.jpg?raw=true)
-</img src="ex1.png" style="height: 100px; width:100px;"/>
+![alt text](https://github.com/AdamSama/minimax_alphabeta_pruning/master/ex1.png?raw=true)
 would have a tree file like this: </br>
 a: [a1, a2, a3]</br>
 a1: [b, c]</br>
@@ -44,7 +43,7 @@ File name is also required:
     eg. example.txt
 Examples for the compilation:
 ```bash
-    ./minmax -v -ab min example.txt
+./minmax -v -ab min example.txt
 ```
 
 To clean ./minmax, type 
